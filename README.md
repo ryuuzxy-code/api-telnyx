@@ -28,7 +28,7 @@ const query = 'wa'
 
 nyx.sfilesearch(query)
     .then(result => {
-     console.log(result)
+     console.log(hasil)
 });
 ```
 ## ```Happy Mod```
@@ -38,7 +38,7 @@ const query = 'wa'
 
 nyx.happymod(query)
     .then(result => {
-     console.log(result)
+     console.log(hasil)
 });
 ```
 ## ```Otakudesu```
