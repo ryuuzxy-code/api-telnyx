@@ -1,0 +1,30 @@
+{
+  "name": "api-telnyx",
+  "version": "1.0.0",
+  "description": "Scraper Api WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zennjss/api-telnyx.git"
+  },
+  "keywords": [
+    "Gak Tauu"
+  ],
+  "author": "Zennn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zennjss/api-telnyx/issues"
+  },
+  "homepage": "https://github.com/Zennjss/api-telnyx#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
