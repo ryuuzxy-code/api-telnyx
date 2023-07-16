@@ -9,7 +9,7 @@
 <a href="##"><img title="api-telnyx" src="https://img.shields.io/static/v1?label=package&message=api-telnyx&color=red"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Zennjss"><img title="Author" src="https://img.shields.io/badge/Author-Zennn-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ryuuzxy-code"><img title="Author" src="https://img.shields.io/badge/Author-Ryuu-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="scrapapi" src="https://img.shields.io/static/v1?label=FREE&message=api-telnyx&color=pink"></a>
